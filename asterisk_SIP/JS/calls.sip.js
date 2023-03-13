@@ -1,4 +1,4 @@
-const { param } = require("jquery");
+
 
 var overlay = false;
 var userAgent = null;
